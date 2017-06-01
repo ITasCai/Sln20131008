@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+
+  <!-- CDATA的作用就是把所有文字都当作纯文本来解析，不去识别其中的标签-->
+<![CDATA[ 你好呀，hello a,累好啊,x<a>b<a>]]>
+
+</root>

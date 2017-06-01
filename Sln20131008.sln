@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01xml介绍", "01xml介绍\01xml介绍.csproj", "{E54C95F0-D70B-4ECC-9B05-059FB9ABCCFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02读取Order文件并显示", "02读取Order文件并显示\02读取Order文件并显示.csproj", "{762975E9-B7C0-408D-9427-DB80E7DB17E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03把xml加载到TreeView上", "03把xml加载到TreeView上\03把xml加载到TreeView上.csproj", "{01AA32A6-F644-4993-9CCA-2C151391543C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04通过Xml实现增删改查", "04通过Xml实现增删改查\04通过Xml实现增删改查.csproj", "{7D0E3A7A-C83A-4F39-90C9-F8288C12CF10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E54C95F0-D70B-4ECC-9B05-059FB9ABCCFF}.Debug|x86.ActiveCfg = Debug|x86
+		{E54C95F0-D70B-4ECC-9B05-059FB9ABCCFF}.Debug|x86.Build.0 = Debug|x86
+		{E54C95F0-D70B-4ECC-9B05-059FB9ABCCFF}.Release|x86.ActiveCfg = Release|x86
+		{E54C95F0-D70B-4ECC-9B05-059FB9ABCCFF}.Release|x86.Build.0 = Release|x86
+		{762975E9-B7C0-408D-9427-DB80E7DB17E2}.Debug|x86.ActiveCfg = Debug|x86
+		{762975E9-B7C0-408D-9427-DB80E7DB17E2}.Debug|x86.Build.0 = Debug|x86
+		{762975E9-B7C0-408D-9427-DB80E7DB17E2}.Release|x86.ActiveCfg = Release|x86
+		{762975E9-B7C0-408D-9427-DB80E7DB17E2}.Release|x86.Build.0 = Release|x86
+		{01AA32A6-F644-4993-9CCA-2C151391543C}.Debug|x86.ActiveCfg = Debug|x86
+		{01AA32A6-F644-4993-9CCA-2C151391543C}.Debug|x86.Build.0 = Debug|x86
+		{01AA32A6-F644-4993-9CCA-2C151391543C}.Release|x86.ActiveCfg = Release|x86
+		{01AA32A6-F644-4993-9CCA-2C151391543C}.Release|x86.Build.0 = Release|x86
+		{7D0E3A7A-C83A-4F39-90C9-F8288C12CF10}.Debug|x86.ActiveCfg = Debug|x86
+		{7D0E3A7A-C83A-4F39-90C9-F8288C12CF10}.Debug|x86.Build.0 = Debug|x86
+		{7D0E3A7A-C83A-4F39-90C9-F8288C12CF10}.Release|x86.ActiveCfg = Release|x86
+		{7D0E3A7A-C83A-4F39-90C9-F8288C12CF10}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
